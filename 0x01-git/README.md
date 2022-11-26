@@ -1,1 +1,2 @@
-new Readme
+Updated README 
+Collaboration requires team effort
