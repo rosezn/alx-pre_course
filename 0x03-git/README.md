@@ -1,2 +1,3 @@
 Updated README 
-Collaboration requires team effort
+Collaboration requires team effort 
+Learning the basics 
