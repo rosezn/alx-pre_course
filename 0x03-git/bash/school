@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-School
-=======
 The school is open!
->>>>>>> update_script
+update_script
